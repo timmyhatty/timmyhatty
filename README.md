@@ -17,7 +17,8 @@
 - Google Workspace Admin  
 - Slack & Asana integrations  
 - Confluence
--   
+- Zapier
+- Apps Script
 
 ---
 
