@@ -1,4 +1,4 @@
 ## Timothy Hatley
 
-Current Occupation: IT Manager
-Languages: Python, C++
+\nCurrent Occupation: IT Manager
+\nLanguages: Python, C++
