@@ -1,32 +1,34 @@
 # 👋 Hi, I'm Timothy Hatley
 
-🎓 I'm a junior at **Wayne State University**, majoring in **Computer Science**.  
-💼 I currently serve as an **IT Manager Intern at Benzinga** and work part-time as a **Student Support Agent at Cornell University**.  
-💻 I enjoy building tools and solving problems with **Python** and **C++**.  
+🎓 Junior @ **Wayne State University** — *Computer Science Major*  
+💼 **IT Manager Intern @ Benzinga** | **Student Support Agent @ Cornell University**  
+💻 Passionate about building solutions with **Python** and **C++**
 
 ---
 
 ## 🚀 Current Focus
-- Strengthening my programming skills 
-- Building my first application    
+
+- 📚 Strengthening my programming skills  
+- 🛠️ Building my first real-world application  
 
 ---
 
-## 🛠️ Tech I Work With
-- Python & C++  
-- Google Workspace Admin  
-- Slack & Asana integrations  
-- Confluence
-- Zapier
-- Apps Script
+## 🧰 Tech & Tools
+
+- 💻 Python & C++  
+- ☁️ Google Workspace Admin  
+- 🔄 Slack & Asana Integrations  
+- 📘 Confluence  
+- ⚡ Zapier  
+- 🧩 Google Apps Script  
 
 ---
 
 ## 📫 Let's Connect
 
-- 📸 [Instagram @timmyhatty](https://www.instagram.com/timmyhatty/)  
-- 💼 Always open to networking and collaboration!
+[![Instagram Badge](https://img.shields.io/badge/@timmyhatty-%23E4405F.svg?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/timmyhatty/)](https://www.instagram.com/timmyhatty/)  
+💬 *Always open to networking, tech chats, and collaboration opportunities.*
 
 ---
 
-Thanks for visiting!
+Thanks for stopping by! 🙏
