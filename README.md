@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Timothy Hatley
 
 🎓 Junior @ **Wayne State University** — *Computer Science Major*  
-💼 **IT Manager Intern @ Benzinga** | **Student Support Agent @ Cornell University**  
+💼 **IT Support Manager @ Benzinga** | **Student Support Agent @ Cornell University**  
 💻 Passionate about building solutions with **Python** and **C++**
 
 ---
@@ -18,7 +18,6 @@
 - 💻 Python & C++  
 - ☁️ Google Workspace Admin  
 - 🔄 Slack & Asana Integrations  
-- 📘 Confluence  
 - ⚡ Zapier  
 - 🧩 Google Apps Script  
 
